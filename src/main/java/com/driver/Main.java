@@ -12,7 +12,7 @@ public class Main {
         String name=sc.nextLine();
 
         obj.setName(name);
-        System.out.print(obj.getName());
+        obj.getName();
 
     }
 }
